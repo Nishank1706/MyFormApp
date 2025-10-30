@@ -16,6 +16,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 
+//This screen allows editing an existing form
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun EditFormScreen(navController: NavController,form : Form) {
