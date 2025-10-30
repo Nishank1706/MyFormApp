@@ -46,6 +46,7 @@ import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material3.CardDefaults
 import androidx.compose.ui.text.style.TextAlign
 
+//This screen displays the list of forms from Firebase
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun DisplayFormScreen(navController: NavController) {
