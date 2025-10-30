@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389534892741",
+    "project_id": "myformapp-b869c",
+    "storage_bucket": "myformapp-b869c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389534892741:android:0883423d97988120e466ac",
+        "android_client_info": {
+          "package_name": "com.example.myformapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9b0icn7XhhqCHSGMrUg0pNWGwJQnwAJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
